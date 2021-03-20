@@ -5,7 +5,7 @@
  * 2S = Two of Swords
  */
 
-let deck = [];
+/* let deck = [];
 const tipos = ["C", "D", "H", "S"];
 const jokers = ["A", "J", "Q", "K"];
 
@@ -41,4 +41,4 @@ const pedirCarta = () => {
 
 for (let i = 0; i <= 60; i++) {
    pedirCarta();
-}
+} */
